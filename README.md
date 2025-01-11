@@ -1,0 +1,1 @@
+# Human-activity-recognition-using-smartphones-and-Breast-Cancer-using-Naive-Bayes-algorithm
